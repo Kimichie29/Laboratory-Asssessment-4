@@ -5,6 +5,8 @@
 This Weather App provides real-time weather updates and forecasts for any location worldwide. It is built using Next.js and TypeScript, utilizing modern UI components for a clean and intuitive design. The app is deployed via Vercel for seamless accessibility.
 
 Vercel Deployment: https://v0-react-weather-app-lac.vercel.app
+![image](https://github.com/user-attachments/assets/96aacff1-9f3e-449a-851a-59dfa87c6349)
+
 
 ## Features Overview
 
